@@ -6,22 +6,14 @@ This repository contains a demo project showcasing a microservices-based applica
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
 - [Project Components](#project-components)
     - [API Gateway](#api-gateway)
     - [Config Server](#config-server)
     - [Discovery Server](#discovery-server)
     - [Student Microservice](#student-microservice)
     - [School Microservice](#school-microservice)
-- [Inter-Service Communication](#inter-service-communication)
+    - [Inter-Service Communication](#inter-service-communication)
     - [Using OpenFeign](#using-openfeign)
-- [Distributed Tracing](#distributed-tracing)
-    - [Using Zipkin](#using-zipkin)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 
 
