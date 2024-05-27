@@ -14,7 +14,7 @@ This repository contains a demo project showcasing a microservices-based applica
     - [School Microservice](#school-microservice)
     - [Inter-Service Communication](#inter-service-communication)
     - [Using OpenFeign](#using-openfeign)
-
+    - [H2 DB](#h2)
 
 
 ## Project Components
@@ -44,3 +44,7 @@ The School Microservice manages school-related data and operations, including ad
 ### Using OpenFeign
 
 This project demonstrates inter-service communication using OpenFeign, a declarative REST client that simplifies service-to-service communication within the microservices ecosystem.
+
+## h2
+
+Used 2 h2 in memory databases for both of my microservices to store students and schools details
